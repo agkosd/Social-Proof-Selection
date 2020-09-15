@@ -173,7 +173,18 @@ header img {
   .review {
     margin-bottom: 1rem;
     width: 80%;
+    display:flex;
+    justify-content:flex-start;
+    align-items: center;
   }
+.review p{
+  margin:0;
+}
+
+.images{
+  margin-right:1rem;
+}
+
 
   .review:first-of-type {
     align-self: flex-start;
