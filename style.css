@@ -121,7 +121,7 @@ header img {
   margin-bottom: 5px;
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 400px) {
   body {
     background-image: url("./images/bg-pattern-top-desktop.svg"),
       url("./images/bg-pattern-bottom-desktop.svg");
