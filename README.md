@@ -1,5 +1,3 @@
 # Frontend Mentor - Social proof section
-
-![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
-
+Working Link of this project -> https://social-proof-selection-5jwxbs2qc.vercel.app/ (Mobile and Desktop Friendly)
 
